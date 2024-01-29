@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#My Ignore
+VFX_Scene_20240126/Binaries/*
+VFX_Scene_20240126/Intermediate/*
+VFX_Scene_20240126/Saved/*
