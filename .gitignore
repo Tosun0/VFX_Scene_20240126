@@ -74,6 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #My Ignore
-VFX_Scene_20240126/Binaries/*
-VFX_Scene_20240126/Intermediate/*
-VFX_Scene_20240126/Saved/*
+VFX_Scene_20240126/Binaries/
+VFX_Scene_20240126/Intermediate/
+VFX_Scene_20240126/Saved/
